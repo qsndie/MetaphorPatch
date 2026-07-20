@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="modules_scope">模块作用域</string>
+	<string name="reload">刷新</string>
+	<string name="loading">加载中</string>
+	<string name="patching_apk">修补中</string>
+	<string name="permission_first">请先给予所有权限</string>
+	<string name="finish">完成</string>
+	<string name="patch_finish_message">修补后的安装包路径为SD卡目录下的%s/patched.apk. 安装前需手动签名(比如使用MT管理器进行签名). 安装后需授予所有文件访问权限.</string>
+	<string name="delete">删除</string>
+	<string name="set_apk_path">设置原安装包缓存路径</string>
+	<string name="repatch">重新修补</string>
+	<string name="reloader">刷新加载器</string>
+	<string name="module_settings">模块设置</string>
+	<string name="reload_modules">刷新模块信息</string>
+	<string name="delete_all_uninstalled_apps">删除所有已卸载的应用</string>
+</resources>
