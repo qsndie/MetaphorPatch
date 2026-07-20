@@ -15,7 +15,6 @@ import java.util.*;
 import java.util.zip.*;
 import pxb.android.axml.*;
 import android.view.*;
-import nea.lox.*;
 import org.metaphorpatch.util.*;
 import android.content.pm.*;
 import org.json.*;

@@ -3,7 +3,6 @@ package org.metaphorpatch.widget;
 import android.widget.*;
 import android.content.pm.*;
 import android.content.*;
-import nea.lox.*;
 import android.view.*;
 import org.metaphorpatch.util.*;
 

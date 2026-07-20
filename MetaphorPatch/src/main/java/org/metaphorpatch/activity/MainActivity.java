@@ -2,7 +2,6 @@ package org.metaphorpatch.activity;
 import android.app.*;
 import android.os.*;
 import android.view.*;
-import nea.lox.*;
 import android.content.res.*;
 import java.io.*;
 import org.metaphorpatch.util.*;

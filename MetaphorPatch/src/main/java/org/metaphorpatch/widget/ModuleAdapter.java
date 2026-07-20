@@ -4,7 +4,6 @@ import android.widget.*;
 import org.metaphorpatch.util.*;
 import android.content.*;
 import android.view.*;
-import nea.lox.*;
 
 public class ModuleAdapter extends ArrayAdapter<ModuleEntry>
 {

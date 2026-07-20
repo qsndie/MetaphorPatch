@@ -7,7 +7,6 @@ import org.metaphorpatch.util.*;
 import android.widget.*;
 import org.metaphorpatch.widget.*;
 import android.view.*;
-import nea.lox.*;
 import java.io.*;
 import android.content.pm.*;
 
