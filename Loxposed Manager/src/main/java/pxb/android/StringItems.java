@@ -28,85 +28,85 @@ import java.util.stream.*;
 public class StringItems extends ArrayList<StringItem>
 {
 
-	@Override
+
 	public static <E extends Object> List<E> of()
 	{
 		return null;
 	}
 
-	@Override
+
 	public static<E extends Object> List<E> of(E e1)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static<E extends Object> List<E> of(E e1, E e2)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static<E extends Object> List<E> of(E e1, E e2, E e3)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static <E extends Object> List<E> of(E e1, E e2, E e3, E e4)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static <E extends Object> List<E> of(E e1, E e2, E e3, E e4, E e5)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static <E extends Object> List<E> of(E e1, E e2, E e3, E e4, E e5, E e6)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static <E extends Object> List<E> of(E e1, E e2, E e3, E e4, E e5, E e6, E e7)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static<E extends Object> List<E> of(E e1, E e2, E e3, E e4, E e5, E e6, E e7, E e8)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static <E extends Object> List<E> of(E e1, E e2, E e3, E e4, E e5, E e6, E e7, E e8, E e9)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static<E extends Object> List<E> of(E e1, E e2, E e3, E e4, E e5, E e6, E e7, E e8, E e9, E e10)
 	{
 		return null;
 	}
 
-	@Override
+
 	public static<E extends Object> List<E> of(E[] elements)
 	{
 		return null;
 	}
 
-	@Override
+
 	public Stream<StringItem> stream()
 	{
 		return null;
 	}
 
-	@Override
+
 	public Stream<StringItem> parallelStream()
 	{
 		return null;
