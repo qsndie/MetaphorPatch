@@ -1,7 +1,7 @@
-package nea.lox.manager.widget;
+package org.metaphorpatch.widget;
 
 import android.widget.*;
-import nea.lox.manager.util.*;
+import org.metaphorpatch.util.*;
 import android.content.*;
 import android.view.*;
 import nea.lox.*;

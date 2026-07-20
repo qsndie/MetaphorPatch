@@ -1,11 +1,11 @@
-package nea.lox.manager.activity;
+package org.metaphorpatch.activity;
 import android.app.*;
 import android.os.*;
 import android.view.*;
 import nea.lox.*;
 import android.content.res.*;
 import java.io.*;
-import nea.lox.manager.util.*;
+import org.metaphorpatch.util.*;
 import android.widget.*;
 import org.json.*;
 import java.util.*;
@@ -13,7 +13,7 @@ import android.content.*;
 import android.provider.*;
 import android.content.pm.*;
 import android.net.*;
-import nea.lox.manager.widget.*;
+import org.metaphorpatch.widget.*;
 
 public class MainActivity extends Activity
 implements AdapterView.OnItemClickListener, AdapterView.OnItemLongClickListener

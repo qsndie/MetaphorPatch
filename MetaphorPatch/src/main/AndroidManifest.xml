@@ -5,14 +5,14 @@
     <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
 
     <application
-        android:allowBackup="true"
-        android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        android:label="Loxposed"
-        android:icon="@drawable/ic_launcher">
+    android:allowBackup="true"
+    android:supportsRtl="true"
+    android:theme="@style/AppTheme"
+    android:label="MetaphorPatch"
+    android:icon="@drawable/ic_launcher_new">
 
         <activity
-            android:name="nea.lox.manager.activity.MainActivity"
+            android:name="org.metaphorpatch.activity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -21,7 +21,7 @@
         </activity>
 
         <activity
-            android:name="nea.lox.manager.activity.PatchActivity"
+            android:name="org.metaphorpatch.activity.PatchActivity"
             android:exported="true"
             android:configChanges="keyboardHidden|orientation">
             <intent-filter>
@@ -36,7 +36,7 @@
 
         <activity
             android:label="@string/modules_scope"
-            android:name="nea.lox.manager.activity.ModuleScopeActivity"
+            android:name="org.metaphorpatch.activity.ModuleScopeActivity"
             android:exported="false">
         </activity>
 

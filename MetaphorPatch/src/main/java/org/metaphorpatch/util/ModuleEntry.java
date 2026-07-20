@@ -1,4 +1,4 @@
-package nea.lox.manager.util;
+package org.metaphorpatch.util;
 import android.content.pm.*;
 
 public class ModuleEntry extends ApplicationEntry

@@ -1,4 +1,4 @@
-package nea.lox.manager.activity;
+package org.metaphorpatch.activity;
 import android.app.*;
 import android.os.*;
 import android.widget.*;
@@ -16,7 +16,7 @@ import java.util.zip.*;
 import pxb.android.axml.*;
 import android.view.*;
 import nea.lox.*;
-import nea.lox.manager.util.*;
+import org.metaphorpatch.util.*;
 import android.content.pm.*;
 import org.json.*;
 import java.nio.file.*;

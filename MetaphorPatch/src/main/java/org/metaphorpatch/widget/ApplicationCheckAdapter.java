@@ -1,11 +1,11 @@
-package nea.lox.manager.widget;
+package org.metaphorpatch.widget;
 
 import android.widget.*;
 import android.content.pm.*;
 import android.content.*;
 import nea.lox.*;
 import android.view.*;
-import nea.lox.manager.util.*;
+import org.metaphorpatch.util.*;
 
 public class ApplicationCheckAdapter extends ArrayAdapter<ApplicationEntry>
 {

@@ -1,11 +1,11 @@
-package nea.lox.manager.activity;
+package org.metaphorpatch.activity;
 import android.app.*;
 import android.os.*;
 import org.json.*;
 import java.util.*;
-import nea.lox.manager.util.*;
+import org.metaphorpatch.util.*;
 import android.widget.*;
-import nea.lox.manager.widget.*;
+import org.metaphorpatch.widget.*;
 import android.view.*;
 import nea.lox.*;
 import java.io.*;
