@@ -17,5 +17,5 @@ rootProject.name = "Loxposed"
 
 include ':Loxposed Manager'
 include ':Loxposed Meta Loader'
-include ':Loxposed Patch Loader'
-include ':Loxposed Proxy App Factory'
+//include ':Loxposed Patch Loader'
+//include ':Loxposed Proxy App Factory'
