@@ -1,3 +1,4 @@
+import org.metaphorpatch.R;
 package org.metaphorpatch.activity;
 import android.app.*;
 import android.os.*;

@@ -1,3 +1,4 @@
+import org.metaphorpatch.R;
 package org.metaphorpatch.widget;
 
 import android.widget.*;
