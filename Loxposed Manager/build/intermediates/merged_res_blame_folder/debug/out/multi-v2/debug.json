@@ -1,0 +1,108 @@
+{
+    "logs": [
+        {
+            "outputFile": "nea.lox.Loxposed Manager-merged_res-4:/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/res/values-zh-rCN/strings.xml",
+                    "from": {
+                        "startLines": "9,15,7,4,13,2,8,5,6,3,14,12,11,10",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "417,672,262,132,579,52,297,169,211,97,625,539,501,452",
+                        "endColumns": "34,63,34,36,45,44,119,41,50,34,46,39,37,48",
+                        "endOffsets": "450,734,295,167,623,95,415,209,260,130,670,577,537,499"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,93,160,198,238,287,335,458,503,557,595,645,688,729",
+                        "endColumns": "37,66,37,39,48,47,122,44,53,37,49,42,40,51",
+                        "endOffsets": "88,155,193,233,282,330,453,498,552,590,640,683,724,776"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "nea.lox.Loxposed Manager-merged_res-4:/values-night-v8_values-night-v8.arsc.flat",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "173"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "176"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "nea.lox.Loxposed Manager-merged_res-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "184"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "1100",
+                        "endLines": "20",
+                        "endColumns": "9",
+                        "endOffsets": "1232"
+                    }
+                },
+                {
+                    "source": "/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endColumns": "36",
+                        "endOffsets": "87"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                },
+                {
+                    "source": "/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,10,16,8,5,14,3,9,6,7,4,15,13,12,11",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "52,625,931,353,188,814,95,390,229,276,148,871,771,730,664",
+                        "endColumns": "42,38,80,36,40,56,52,234,46,76,39,59,42,40,65",
+                        "endOffsets": "93,662,1010,388,227,869,146,623,274,351,186,929,812,769,728"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "95,141,183,267,307,351,411,467,705,755,835,878,941,987,1031",
+                        "endColumns": "45,41,83,39,43,59,55,237,49,79,42,62,45,43,68",
+                        "endOffsets": "136,178,262,302,346,406,462,700,750,830,873,936,982,1026,1095"
+                    }
+                }
+            ]
+        }
+    ]
+}

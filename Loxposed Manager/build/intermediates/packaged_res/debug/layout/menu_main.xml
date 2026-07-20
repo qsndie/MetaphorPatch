@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+    <item
+		android:id="@+id/reloader"
+		android:title="@string/reloader"/>
+
+	<item
+		android:id="@+id/reload_modules"
+		android:title="@string/reload_modules"/>
+
+	<item
+		android:id="@+id/delete_uninstalled"
+		android:title="@string/delete_all_uninstalled_apps"/>
+</menu>

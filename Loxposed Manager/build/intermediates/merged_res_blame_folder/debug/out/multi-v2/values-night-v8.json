@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "nea.lox.Loxposed Manager-mergeDebugResources-2:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "173"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "176"
+                    }
+                }
+            ]
+        }
+    ]
+}

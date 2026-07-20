@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="nea.lox.metaloader"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+7-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Meta Loader/src/main/AndroidManifest.xml:8:5-10:40
+8        android:minSdkVersion="1"
+8-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Meta Loader/src/main/AndroidManifest.xml:9:9-34
+9        android:targetSdkVersion="1" />
+9-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Meta Loader/src/main/AndroidManifest.xml:10:9-38
+10
+11    <application
+11-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Meta Loader/src/main/AndroidManifest.xml:12:5-15:19
+12        android:debuggable="true"
+13        android:label="Loxposed Meta Loader" >
+13-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Meta Loader/src/main/AndroidManifest.xml:13:9-45
+14    </application>
+15
+16</manifest>

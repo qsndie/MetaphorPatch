@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "nea.lox.Loxposed Manager-pngs-0:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "nea.lox.Loxposed Manager-pngs-0:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/layout_activity_patch.xml.flat",
+        "source": "nea.lox.Loxposed Manager-main-6:/layout/activity_patch.xml"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "nea.lox.Loxposed Manager-pngs-0:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/layout_item_module.xml.flat",
+        "source": "nea.lox.Loxposed Manager-main-6:/layout/item_module.xml"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/layout_menu_main.xml.flat",
+        "source": "nea.lox.Loxposed Manager-main-6:/layout/menu_main.xml"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "nea.lox.Loxposed Manager-pngs-0:/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "nea.lox.Loxposed Manager-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/layout_item_application_check.xml.flat",
+        "source": "nea.lox.Loxposed Manager-main-6:/layout/item_application_check.xml"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "nea.lox.Loxposed Manager-pngs-0:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/drawable_ic_launcher.xml.flat",
+        "source": "nea.lox.Loxposed Manager-main-6:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "nea.lox.Loxposed Manager-pngs-0:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "nea.lox.Loxposed Manager-merged_res-4:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "nea.lox.Loxposed Manager-pngs-0:/drawable-xhdpi/ic_launcher_foreground.png"
+    }
+]

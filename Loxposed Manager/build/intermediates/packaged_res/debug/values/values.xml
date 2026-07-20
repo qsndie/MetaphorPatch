@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme">#a06000</color>
+    <string name="app_name">Loxposed</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all_uninstalled_apps">Delete all uninstalled apps</string>
+    <string name="finish">Done</string>
+    <string name="loading">Loading</string>
+    <string name="module_settings">Module Settings</string>
+    <string name="modules_scope">Modules Scope</string>
+    <string name="patch_finish_message">The patched APK is saved to %s/patched.apk in your SD card. You need to manually sign it (e.g., using MT Manager) before installation. After installation, grant all file access permission.</string>
+    <string name="patching_apk">Patching</string>
+    <string name="permission_first">Please grant all permissions first</string>
+    <string name="reload">Refresh</string>
+    <string name="reload_modules">Refresh Module Info</string>
+    <string name="reloader">Reloader</string>
+    <string name="repatch">Repatch</string>
+    <string name="set_apk_path">Set original APK cache path</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light">
+		<item name="android:colorAccent">@color/theme</item>
+	</style>
+</resources>

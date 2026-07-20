@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "nea.lox.Loxposed Manager-mergeDebugResources-2:/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/res/values-zh-rCN/strings.xml",
+                    "from": {
+                        "startLines": "9,15,7,4,13,2,8,5,6,3,14,12,11,10",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "417,672,262,132,579,52,297,169,211,97,625,539,501,452",
+                        "endColumns": "34,63,34,36,45,44,119,41,50,34,46,39,37,48",
+                        "endOffsets": "450,734,295,167,623,95,415,209,260,130,670,577,537,499"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,93,160,198,238,287,335,458,503,557,595,645,688,729",
+                        "endColumns": "37,66,37,39,48,47,122,44,53,37,49,42,40,51",
+                        "endOffsets": "88,155,193,233,282,330,453,498,552,590,640,683,724,776"
+                    }
+                }
+            ]
+        }
+    ]
+}

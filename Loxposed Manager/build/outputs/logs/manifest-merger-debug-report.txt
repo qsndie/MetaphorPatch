@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:4:5-22
+		INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:6:5-31
+		INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:8:22-79
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:10:22-74
+uses-sdk
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:12:5-14:40
+INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:12:5-14:40
+INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:12:5-14:40
+	android:targetSdkVersion
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:14:9-38
+		INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:13:9-35
+		INJECTED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml
+application
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:16:5-62:19
+	android:extractNativeLibs
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:19:9-42
+	android:supportsRtl
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:21:9-33
+	android:icon
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:20:9-40
+activity#nea.lox.manager.activity.MainActivity
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:24:9-34:20
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:24:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:26:13-32:29
+action#android.intent.action.MAIN
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:30:27-74
+activity#nea.lox.manager.activity.PatchActivity
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:36:9-57:20
+	android:exported
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:38:13-36
+	android:configChanges
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:39:13-63
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:37:13-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.android.package-archive+data:scheme:content+data:scheme:file
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:41:13-55:29
+action#android.intent.action.VIEW
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:43:17-68
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.DEFAULT
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:45:17-75
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:45:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:47:27-75
+data
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:49:17-49
+	android:scheme
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:49:23-47
+	android:mimeType
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:53:23-81
+activity#nea.lox.manager.activity.ModuleScopeActivity
+ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:58:3-61:14
+	android:label
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:59:4-41
+	android:name
+		ADDED from /data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:60:13-72

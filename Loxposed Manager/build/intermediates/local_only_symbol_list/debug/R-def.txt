@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color theme
+drawable ic_launcher
+drawable ic_launcher_foreground
+id check
+id delete_uninstalled
+id description
+id icon
+id label
+id list
+id message
+id package_and_version
+id reload_modules
+id reloader
+layout activity_main
+layout activity_patch
+layout item_application_check
+layout item_module
+layout menu_main
+string app_name
+string delete
+string delete_all_uninstalled_apps
+string finish
+string loading
+string module_settings
+string modules_scope
+string patch_finish_message
+string patching_apk
+string permission_first
+string reload
+string reload_modules
+string reloader
+string repatch
+string set_apk_path
+style AppTheme

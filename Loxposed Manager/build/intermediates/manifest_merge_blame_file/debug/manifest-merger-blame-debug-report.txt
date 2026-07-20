@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="nea.lox"
+4    android:versionCode="15"
+5    android:versionName="1.14" >
+6
+7    <uses-sdk
+7-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:12:5-14:40
+8        android:minSdkVersion="1"
+8-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:13:9-35
+9        android:targetSdkVersion="1" />
+9-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:14:9-38
+10
+11    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+11-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:8:5-81
+11-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:8:22-79
+12    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+12-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:10:5-76
+12-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:10:22-74
+13
+14    <application
+14-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:16:5-62:19
+15        android:allowBackup="true"
+15-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:17:9-35
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+17-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:19:9-42
+18        android:icon="@drawable/ic_launcher"
+18-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:22:9-45
+19        android:label="Loxposed"
+19-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:21:9-33
+20        android:supportsRtl="true"
+20-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:18:9-35
+21        android:theme="@style/AppTheme" >
+21-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:20:9-40
+22        <activity android:name="nea.lox.manager.activity.MainActivity" >
+22-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:24:9-34:20
+22-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:24:19-71
+23            <intent-filter>
+23-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:26:13-32:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:28:17-68
+24-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:28:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:30:17-76
+26-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:30:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:36:9-57:20
+30            android:name="nea.lox.manager.activity.PatchActivity"
+30-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:37:13-66
+31            android:configChanges="keyboardHidden|orientation"
+31-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:39:13-63
+32            android:exported="true" >
+32-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:38:13-36
+33            <intent-filter>
+33-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:41:13-55:29
+34                <action android:name="android.intent.action.VIEW" />
+34-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:43:17-68
+34-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:43:25-66
+35
+36                <category android:name="android.intent.category.DEFAULT" />
+36-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:45:17-75
+36-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:45:27-73
+37                <category android:name="android.intent.category.BROWSABLE" />
+37-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:47:17-77
+37-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:47:27-75
+38
+39                <data android:scheme="content" />
+39-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:49:17-49
+39-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:49:23-47
+40                <data android:scheme="file" />
+40-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:49:17-49
+40-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:49:23-47
+41                <data android:mimeType="application/vnd.android.package-archive" />
+41-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:49:17-49
+41-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:53:23-81
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:58:3-61:14
+45            android:name="nea.lox.manager.activity.ModuleScopeActivity"
+45-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:60:13-72
+46            android:label="@string/modules_scope" >
+46-->/data/data/com.termux/files/home/MetaphorPatch/Loxposed Manager/src/main/AndroidManifest.xml:59:4-41
+47        </activity>
+48    </application>
+49
+50</manifest>

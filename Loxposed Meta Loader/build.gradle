@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace = 'nea.lox.metaloader'
     compileSdkVersion 21
     buildToolsVersion "21.1.0"
 
@@ -13,5 +14,5 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
 }

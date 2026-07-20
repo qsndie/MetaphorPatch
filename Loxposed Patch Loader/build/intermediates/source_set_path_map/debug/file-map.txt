@@ -1,0 +1,7 @@
+nea.lox.patchloader.Loxposed Patch Loader-pngs-0 /data/data/com.termux/files/home/MetaphorPatch/Loxposed Patch Loader/build/generated/res/pngs/debug
+nea.lox.patchloader.Loxposed Patch Loader-resValues-1 /data/data/com.termux/files/home/MetaphorPatch/Loxposed Patch Loader/build/generated/res/resValues/debug
+nea.lox.patchloader.Loxposed Patch Loader-packageDebugResources-2 /data/data/com.termux/files/home/MetaphorPatch/Loxposed Patch Loader/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+nea.lox.patchloader.Loxposed Patch Loader-packageDebugResources-3 /data/data/com.termux/files/home/MetaphorPatch/Loxposed Patch Loader/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+nea.lox.patchloader.Loxposed Patch Loader-merged_res-4 /data/data/com.termux/files/home/MetaphorPatch/Loxposed Patch Loader/build/intermediates/merged_res/debug
+nea.lox.patchloader.Loxposed Patch Loader-debug-5 /data/data/com.termux/files/home/MetaphorPatch/Loxposed Patch Loader/src/debug/res
+nea.lox.patchloader.Loxposed Patch Loader-main-6 /data/data/com.termux/files/home/MetaphorPatch/Loxposed Patch Loader/src/main/res
