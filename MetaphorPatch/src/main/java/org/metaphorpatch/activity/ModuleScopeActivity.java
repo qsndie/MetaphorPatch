@@ -1,5 +1,5 @@
-import org.metaphorpatch.R;
 package org.metaphorpatch.activity;
+import org.metaphorpatch.R;
 import android.app.*;
 import android.os.*;
 import org.json.*;

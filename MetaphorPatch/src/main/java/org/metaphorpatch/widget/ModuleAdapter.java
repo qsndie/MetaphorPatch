@@ -1,5 +1,5 @@
-import org.metaphorpatch.R;
 package org.metaphorpatch.widget;
+import org.metaphorpatch.R;
 
 import android.widget.*;
 import org.metaphorpatch.util.*;
